@@ -3,7 +3,7 @@ A getblocktemplate based crypto miner in Nodejs written in functional style for 
 
 # Installation
 ```
-git clone https://github.com/Vikasg7/crypto-miner.git
+git clone https://github.com/sqrt11/crypto-miner.git
 cd crypto-miner
 npm install
 npm run build
